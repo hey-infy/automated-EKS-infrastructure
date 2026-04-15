@@ -1,0 +1,9 @@
+{
+    "AccessKey": {
+        "UserName": "eks-provisioner",
+        "AccessKeyId": "<Access_Key_Id>",
+        "Status": "Active",
+        "SecretAccessKey": "<Secret_Access_Key>",
+        "CreateDate": "2026-03-27T06:28:31+00:00"
+    }
+}
