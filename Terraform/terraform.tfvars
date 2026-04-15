@@ -1,0 +1,9 @@
+aws_region             = "ap-south-1"
+cluster_name           = "q0-cluster"
+vpc_cidr               = "10.10.0.0/16"
+public_subnets         = ["10.10.0.0/24", "10.10.1.0/24"]
+private_subnets        = ["10.10.100.0/24", "10.10.101.0/24"]
+node_group_instance_type = "t4g.medium"
+desired_capacity         = 2
+max_size                 = 2
+min_size                 = 2
